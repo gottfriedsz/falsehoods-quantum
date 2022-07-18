@@ -1,5 +1,7 @@
 # Falsehoods Programmers Believe About Quantum Technology
 
+Common misconceptions about quantum technology and computers.
+
 1. Quantum computers will destroy the internet.
 2. All cryptography algorithms are since Shor broken.
 3. You need to have an PhD in Physics to work with quantum computers.
@@ -18,6 +20,7 @@
 17. With entangled qubits you can send information faster than speed of light.
 18. The cat in Schrödinger's thought experiment has really died.
 19. Quantum computer promises infinite speedup for computation.
-
+20. A qubit can be stored in a hard disk or USB stick like a normal bit.
+21. Eight qubits grouped together are a qubyte. 
 
 Licensed under [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
