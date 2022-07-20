@@ -27,6 +27,8 @@ Common misconceptions about quantum technology and computers.
 24. I have to learn strange languages to use quantum computers.
 25. My SHA256, MD5,... is safe enough for the next decade (see harvest now, decrypt later)
 26. I don't need quantum computers, I am in the cloud and already using kubernetes.
-27. More qubits is all you need. There is nothing else then quantum circuits.
+27. More qubits is all you need. 
+28. Quantum computers need a lots of energy to cool down the qubits to near absolut zero.
+29. There is nothing else then quantum circuits.
 
 Licensed under [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
