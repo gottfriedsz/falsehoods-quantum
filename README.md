@@ -30,5 +30,6 @@ Common misconceptions about quantum technology and computers.
 27. More qubits is all you need. 
 28. Quantum computers need a lots of energy to cool down the qubits to near absolut zero.
 29. There is nothing else then quantum circuits.
+30. As a developer I have to understand the fool stack, from endusers UI down to how cool a qubit.
 
 Licensed under [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
