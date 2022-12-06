@@ -61,11 +61,13 @@ Common misconceptions about quantum technology and computers.
 29. More qubits is all you need. 
 30. Quantum computers need a lots of energy to cool down the qubits to near absolut zero.
 31. There is nothing else then quantum circuits.
-32. As a developer I have to understand the fool stack, from endusers UI down to how cool a qubit.
-33. "Harvest now, decrypt later" 
+32. As a developer I have to understand the full stack, from endusers UI down to cryogenic for how cool a qubit.
+33. Quantum computers are inexact and I don't can calculate Pi to last decimal.
+35. I will have a quantum computer at home.
+36. Quantum computing is a hoax, it does actually not exist. 
+37. Quantum computer will destroy the world since you can create wormwholes with it.
 
-
-35. 
-
+    No, actually not. Actually it was just a hype by media and only a simplification of what happened. See 
+    https://scottaaronson.blog/?p=6871 for detailed explaination.
 
 Licensed under [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
