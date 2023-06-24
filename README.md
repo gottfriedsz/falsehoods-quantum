@@ -18,7 +18,11 @@ Common misconceptions about quantum technology and computers.
    
 3. You need to have an PhD in Physics to work with quantum computers.
 
-   Don't worry. You only need some interest. 
+   Don't worry. You only need some interest. Quantum computing is an interdisciplinary
+   field that combines concepts from physics, computer science, mathematics, and engineering. While
+   a Ph.D. in Physics can certainly be advantageous and provide a strong foundation in the underlying
+   principles of quantum mechanics, there are various roles within the field of quantum
+   computing that don't require such an advanced degree.
    
 5. Quantum computers are to only application of quantum technology.
 6. Quantum computers should be cooled in space, because it is already cold out there.
@@ -34,20 +38,25 @@ Common misconceptions about quantum technology and computers.
 
 15. Quantum computers best use for large data.
 
-16. Qubits are in state 0 and 1 at the same time.
+    Quantum computers have the potential to provide significant advantages for certain
+    types of problems, including those involving large data sets. However, it's important
+    to note that quantum computers are not inherently better at handling large
+    data compared to classical computers.
 
-17. With entangled qubits you can send information faster than speed of light.
+17. Qubits are in state 0 and 1 at the same time.
 
-18. The cat in Schrödinger's thought experiment has really died.
+18. With entangled qubits you can send information faster than speed of light.
+
+19. The cat in Schrödinger's thought experiment has really died.
 
     Thankfully no animals were harmed in the making of this thought experiment. 😽
 
-19. Quantum computer promises infinite speedup for any computation.
-20. A qubit can be stored in a hard disk or USB stick like a normal bit.
-21. Eight qubits grouped together are a qubyte. 
-22. An enterprise architect will tell me, when I have to use it. 
-23. Business will tell me, when I have to use it.
-24. I have to learn strange languages to use quantum computers.
+20. Quantum computer promises infinite speedup for any computation.
+21. A qubit can be stored in a hard disk or USB stick like a normal bit.
+22. Eight qubits grouped together are a qubyte. 
+23. An enterprise architect will tell me, when I have to use it. 
+24. Business will tell me, when I have to use it.
+25. I have to learn strange languages to use quantum computers.
 
     You can, if you want, but you don't have to. You can learn new languages that are
     specialized and developed by a certain vendor (like Q# https://azure.microsoft.com/en-us/resources/development-kit/quantum-computing/ 
