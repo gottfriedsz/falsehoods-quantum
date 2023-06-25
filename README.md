@@ -36,7 +36,7 @@ Common misconceptions about quantum technology and computers.
 
 14. Similar: access to quantum computers is limited to scientists.
 
-15. Quantum computers best use for large data.
+15. Quantum computers best use is for large data.
 
     Quantum computers have the potential to provide significant advantages for certain
     types of problems, including those involving large data sets. However, it's important
@@ -47,23 +47,24 @@ Common misconceptions about quantum technology and computers.
 
 18. With entangled qubits you can send information faster than speed of light.
 
-19. The cat in Schrödinger's thought experiment has really died.
+19. The cat in Schrödinger's thought experiment really died.
 
-    Thankfully no animals were harmed in the making of this thought experiment. 😽
+    Thankfully no cat was harmed in this thought experiment of Erwin Schrödinger to
+    illustrate some of the counterintuitive aspects of quantum mechanics. 😽
 
-20. Quantum computer promises infinite speedup for any computation.
-21. A qubit can be stored in a hard disk or USB stick like a normal bit.
-22. Eight qubits grouped together are a qubyte. 
-23. An enterprise architect will tell me, when I have to use it. 
-24. Business will tell me, when I have to use it.
-25. I have to learn strange languages to use quantum computers.
+21. Quantum computer promises infinite speedup for any computation.
+22. A qubit can be stored in a hard disk or USB stick like a normal bit.
+23. Eight qubits grouped together are a qubyte. 
+24. An enterprise architect will tell me, when I have to use it. 
+25. Business will tell me, when I have to use it.
+26. I have to learn strange languages to use quantum computers.
 
     You can, if you want, but you don't have to. You can learn new languages that are
     specialized and developed by a certain vendor (like Q# https://azure.microsoft.com/en-us/resources/development-kit/quantum-computing/ 
     by Microsoft or Silq https://silq.ethz.ch/). But you can also use languages Python 
     to interact with qubits. A good list of resources can be found at https://github.com/qosf/awesome-quantum-software.
 
-26. My SHA256, MD5,... is safe enough for the next decade 
+27. My SHA256, MD5,... is safe enough for the next decade 
 
     
 28. I don't need quantum computers, I am in the cloud and already using kubernetes.
