@@ -47,7 +47,7 @@ Common misconceptions about quantum technology and computers.
 
 18. With entangled qubits you can send information faster than speed of light.
 
-19. The cat in Schrödinger's thought experiment is really died.
+19. The cat in Schrödinger's thought experiment really died.
 
     Thankfully no cat was harmed in this thought experiment of Erwin Schrödinger to
     illustrate some of the counterintuitive aspects of quantum mechanics. 😽
