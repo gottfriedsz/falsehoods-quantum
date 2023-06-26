@@ -16,7 +16,7 @@ Common misconceptions about quantum technology and computers.
    power. So far quantum computers have neither the number of qubits necessary nor the needed
    stability (see NISQ) of them. 
    
-3. You need to have an PhD in Physics to work with quantum computers.
+3. I need to have a PhD in Physics to work with quantum computers.
 
    Don't worry. You only need some interest. Quantum computing is an interdisciplinary
    field that combines concepts from physics, computer science, mathematics, and engineering. While
@@ -47,7 +47,7 @@ Common misconceptions about quantum technology and computers.
 
 18. With entangled qubits you can send information faster than speed of light.
 
-19. The cat in Schrödinger's thought experiment really died.
+19. The cat in Schrödinger's thought experiment is really died.
 
     Thankfully no cat was harmed in this thought experiment of Erwin Schrödinger to
     illustrate some of the counterintuitive aspects of quantum mechanics. 😽
