@@ -57,22 +57,28 @@ Common misconceptions about quantum technology and computers.
 23. Eight qubits grouped together are a qubyte. 
 24. An enterprise architect will tell me, when I have to use it. 
 25. Business will tell me, when I have to use it.
-26. I have to learn strange languages to use quantum computers.
 
-    You can, if you want, but you don't have to. You can learn new languages that are
-    specialized and developed by a certain vendor (like Q# https://azure.microsoft.com/en-us/resources/development-kit/quantum-computing/ 
-    by Microsoft or Silq https://silq.ethz.ch/). But you can also use languages Python 
-    to interact with qubits. A good list of resources can be found at https://github.com/qosf/awesome-quantum-software.
+26. I have to learn strange and new programming languages before I can use quantum computers.
 
-27. My SHA256, MD5,... is safe enough for the next decade 
+    You can, if you want, but you don't have to. You can learn new languages that are specialized
+    and developed by a certain vendor (like [Q#](https://azure.microsoft.com/en-us/resources/development-kit/quantum-computing/) by Microsoft or
+    [Silq](https://silq.ethz.ch/). Additionally, you have the option to use languages like [OpenQASM](https://github.com/openqasm/)
+    for describing quantum circuits. OpenQASM is an open-source quantum assembly language that allows you to define quantum
+    operations and compose them into circuits.
+
+    However, languages like Python can be used to interact with qubits. A good list of resources can be
+    found at [awesome-quantum-software](https://github.com/qosf/awesome-quantum-software) and you will find
+    many familiar languages.
+
+28. My SHA256, MD5,... is safe enough for the next decade 
 
     
-28. I don't need quantum computers, I am in the cloud and already using kubernetes.
-29. More qubits is all you need. 
-30. Quantum computers need a lots of energy to cool down the qubits to near absolut zero.
-31. There is nothing else then quantum circuits.
-32. As a developer I have to understand the full stack, from endusers UI down to cryogenic for how cool a qubit.
-33. Quantum computers are inexact and I don't can calculate Pi to last decimal.
+29. I don't need quantum computers, I am in the cloud and already using kubernetes.
+30. More qubits is all you need. 
+31. Quantum computers need a lots of energy to cool down the qubits to near absolut zero.
+32. There is nothing else then quantum circuits.
+33. As a developer I have to understand the full stack, from endusers UI down to cryogenic for how cool a qubit.
+34. Quantum computers are inexact and I don't can calculate Pi to last decimal.
 35. I will have a quantum computer at home.
 36. Quantum computing is a hoax, it does actually not exist. 
 37. Quantum computer will destroy the world since you can create wormwholes with it.
