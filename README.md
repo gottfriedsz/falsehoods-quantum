@@ -62,7 +62,7 @@ Common misconceptions about quantum technology and computers.
 
     You can, if you want, but you don't have to. You can learn new languages that are specialized
     and developed by a certain vendor (like [Q#](https://azure.microsoft.com/en-us/resources/development-kit/quantum-computing/) by Microsoft or
-    [Silq](https://silq.ethz.ch/). Additionally, you have the option to use languages like [OpenQASM](https://github.com/openqasm/)
+    [Silq](https://silq.ethz.ch/) ). Additionally, you have the option to use languages like [OpenQASM](https://github.com/openqasm/)
     for describing quantum circuits. OpenQASM is an open-source quantum assembly language that allows you to define quantum
     operations and compose them into circuits.
 
