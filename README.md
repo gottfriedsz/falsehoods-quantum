@@ -111,4 +111,10 @@ Common misconceptions about quantum technology and computers.
     No, actually not. Actually it was just a hype by media and only a simplification of what happened. See 
     https://scottaaronson.blog/?p=6871 for detailed explaination.
 
+38. I have to use Python to program quantum computers.
+    
+      No, see quantum falsehood #26.
+
+
+
 Licensed under [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
