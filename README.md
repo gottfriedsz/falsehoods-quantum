@@ -50,11 +50,13 @@ Common misconceptions about quantum technology and computers.
 
 21. Quantum computer promises infinite speedup for any computation.
 22. A qubit can be stored in a hard disk or USB stick like a normal bit.
-23. Eight qubits grouped together are a qubyte. 
-24. An enterprise architect will tell me, when I have to use it. 
-25. Business will tell me, when I have to use it.
+23. Eight qubits grouped together are a qubyte.
 
-26. I have to learn strange and new programming languages before I can use quantum computers.
+    No, eight qubits grouped together is not called a "qubyte". “Qubyte” is not a standard term in quantum computing. For example, a system of eight qubits is often referred to as an eight-qubit quantum register or an eight-qubit quantum state. In classical computing, the fundamental unit is a bit and eight bits grouped together are called a “byte” and 1024 bytes are called a “kilobyte”. But there is no analogous to this in quantum computing.    
+25. An enterprise architect will tell me, when I have to use it. 
+26. Business will tell me, when I have to use it.
+
+27. I have to learn strange and new programming languages before I can use quantum computers.
 
     You can, if you want, but you don't have to. You can learn new languages that are specialized and developed by a certain vendor (like [Q#](https://azure.microsoft.com/en-us/resources/development-kit/quantum-computing/) by Microsoft or [Silq](https://silq.ethz.ch/) ). Additionally, you have the option to use languages like [OpenQASM](https://github.com/openqasm/) for describing quantum circuits. OpenQASM is an open-source quantum assembly language that allows you to define quantum operations and compose them into circuits.
 
