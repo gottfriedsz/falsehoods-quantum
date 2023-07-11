@@ -26,15 +26,21 @@ FQ04. Quantum computers are to only application of quantum technology.
    These are just a few examples of the diverse applications of quantum technology beyond quantum computers. As the field continues to advance, we can expect further discoveries and applications that harness the unique properties of quantum mechanics.
 
 FQ05. Quantum computers should be cooled in space, because it is already cold out there.
+
 FQ06. Quantum computers are not solving for real applications.
+
 FQ07. Quantum computers will replace all classical computers.
 
    Quantum computers have the potential to revolutionize certain areas of computing by solving certain problems more efficiently than classical computers. However, it is unlikely that quantum computers will completely replace classical computers soon. It is more likely to see quantum computing to be complementary to classical computers. Quantum computers alone won't be very useful for most problems. They will work alongside classical CPUs, GPUs, TPUs and other and together the advantage of quantum computing can be leveraged. Quantum computers may be used for specialized applications that benefit from their unique capabilities, while classical computers continue to handle general-purpose computing tasks.
    
 FQ08. Quantum computers can used to solve all existing problems.
+
 FQ09. There will always be errors that prevent quantum computers to be useful.
+
 FQ10. Quantum computers kills blockchains like Bitcoin or Ethereum.
+
 FQ11. We have already reached Quantum Supremacy.
+
 FQ12. Access to quantum computers is limited to rich people.
 
 FQ13. Similar: access to quantum computers is limited to scientists.
@@ -54,12 +60,15 @@ FQ18. The cat in Schrödinger's thought experiment really died.
    Thankfully no cat was harmed in this thought experiment of Erwin Schrödinger to illustrate some of the counterintuitive aspects of quantum mechanics. 😽
 
 FQ19. Quantum computer promises infinite speedup for any computation.
+
 FQ20. A qubit can be stored in a hard disk or USB stick like a normal bit.
+
 FQ21. Eight qubits grouped together are a qubyte.
 
    No, eight qubits grouped together is not called a "qubyte". “Qubyte” is not a standard term in quantum computing. For example, a system of eight qubits is often referred to as an eight-qubit quantum register or an eight-qubit quantum state. In classical computing, the fundamental unit is a bit and eight bits grouped together are called a “byte” and 1024 bytes are called a “kilobyte”. But there is no analogous to this in quantum computing.
    
 FQ22. An enterprise architect will tell me, when I have to use it. 
+
 FQ23. Business will tell me, when I have to use it.
 
 FQ24. I have to learn strange and new programming languages before I can use quantum computers.
@@ -69,14 +78,23 @@ FQ24. I have to learn strange and new programming languages before I can use qua
    However, languages like Python can be used to interact with qubits. A good list of resources can befound at [awesome-quantum-software](https://github.com/qosf/awesome-quantum-software) and you will find many familiar languages.
 
 FQ25. My SHA256, MD5,... is safe enough for the next decade 
+
 FQ26. I don't need quantum computers, I am in the cloud and already using kubernetes.
+
 FQ27. More qubits is all you need. 
+
 FQ28. Quantum computers need a lots of energy to cool down the qubits to near absolut zero.
+
 FQ29. There is nothing else then quantum circuits.
+
 FQ30. As a developer I have to understand the full stack, from endusers UI down to cryogenic for how cool a qubit.
+
 FQ31. Quantum computers are inexact and I don't can calculate Pi to last decimal.
+
 FQ32. I will have a quantum computer at home.
+
 FQ33. Quantum computing is a hoax, it does actually not exist. 
+
 FQ34. Quantum computer will destroy the world since you can create wormwholes with it.
 
    No, actually not. Actually it was just a hype by media and only a simplification of what happened. See https://scottaaronson.blog/?p=6871 for detailed explaination.
