@@ -103,6 +103,10 @@ FQ35. I have to use Python to program quantum computers.
    
    No, see quantum falsehood #23.
 
+FQ36. Quantum effects only happen on small scales.
 
+FQ37. Quantum always means “discrete”.
+
+FQ38. Everything is uncertain in a quantum Universe.
 
 Licensed under [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
