@@ -83,6 +83,10 @@ FQ26. I don't need quantum computers, I am in the cloud and already using kubern
 
 FQ27. More qubits is all you need. 
 
+   In quantum computing, qubits are the fundamental units of information. The number of qubits in a quantum computer directly impacts its potential computational power. More qubits allow a quantum computer to handle larger and more complex problems. There are other crucial factors that contribute to the overall performance and effectiveness of a quantum computer: quantum coherence, gate fidelity, connectivity, error rates. 
+   
+   All of these factors are taken and used to calcualate the Quantum Volume. Quantum Volume is a metric used to measure a quantum computer’s power and complexity. For more information check out the excellent article on Wikipedia about [Quantum Volume](https://en.wikipedia.org/wiki/Quantum_volume). Wikipedia shows that a quantum computer by Honeywell with 6 qubits has the same Quantum Volume of 64 than Quantum Computer by IBM with 27 qubits.
+
 FQ28. Quantum computers need a lots of energy to cool down the qubits to near absolut zero.
 
 FQ29. There is nothing else then quantum circuits.
