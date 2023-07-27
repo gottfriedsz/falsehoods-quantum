@@ -101,16 +101,22 @@ FQ33. Quantum computing is a hoax, it does actually not exist.
 
 FQ34. Quantum computer will destroy the world since you can create wormwholes with it.
 
-   No, actually not. Actually it was just a hype by media and only a simplification of what happened. See https://scottaaronson.blog/?p=6871 for detailed explaination.
+   No, actually not. Actually it was just a hype by media and only a simplification of what happened. See [Scott Aaronson's blog](https://scottaaronson.blog/?p=6871) for detailed explaination.
 
 FQ35. I have to use Python to program quantum computers.  
    
-   No, see quantum falsehood #23.
+   No, see quantum falsehood FQ24.
 
 FQ36. Quantum effects only happen on small scales.
 
 FQ37. Quantum always means “discrete”.
 
 FQ38. Everything is uncertain in a quantum Universe.
+
+FQ39. Moore's Law is dead.
+
+   No. Moore's Law has been named after [Gordon Moore](https://en.wikipedia.org/wiki/Gordon_Moore), co-founder of Intel, in 1965 and "(...) is the observation that the number of transistors in an integrated circuit doubles about every two years." (https://en.wikipedia.org/wiki/Moore%27s_law), therefore Moore's Law is not applicable to quantum computing. While classical computers operate on bits & bytes and transistors made of silicon, quantum computer work with qubits and use photon, ions, electrons... Moore's Law is not dead, it just doesn't work in the field of quantum computing.
+
+   Quantum computing is a very new field in science, but there are already new observations like [Neven's Law or Rosen's Law](https://kjoo.be/moores-law-vs-roses-law-vs-nevens-law/).
 
 Licensed under [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
