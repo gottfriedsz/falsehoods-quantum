@@ -115,7 +115,9 @@ FQ38. Everything is uncertain in a quantum Universe.
 
 FQ39. Moore's Law is dead.
 
-   No. Moore's Law has been named after [Gordon Moore](https://en.wikipedia.org/wiki/Gordon_Moore), co-founder of Intel, in 1965 and "(...) is the observation that the number of transistors in an integrated circuit doubles about every two years." (https://en.wikipedia.org/wiki/Moore%27s_law), therefore Moore's Law is not applicable to quantum computing. While classical computers operate on bits & bytes and transistors made of silicon, quantum computer work with qubits and use photon, ions, electrons... Moore's Law is not dead, it just doesn't work in the field of quantum computing.
+   No. Moore's Law has been named after [Gordon Moore](https://en.wikipedia.org/wiki/Gordon_Moore), co-founder of Intel, in 1965 and "(...) is the observation that the number of transistors in an integrated circuit doubles about every two years." (https://en.wikipedia.org/wiki/Moore%27s_law).
+  
+   While classical computers operate on bits & bytes and transistors made of silicon, quantum computer work with qubits and use photon, ions, electrons... Moore's Law is not dead, it just doesn't work in the field of quantum computing. Moore's Law is not applicable to quantum computing.
 
    Quantum computing is a very new field in science, but there are already new observations like [Neven's Law or Rosen's Law](https://kjoo.be/moores-law-vs-roses-law-vs-nevens-law/).
 
