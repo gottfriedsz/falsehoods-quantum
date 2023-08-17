@@ -59,7 +59,9 @@ FQ18. The cat in Schrödinger's thought experiment really died.
 
    Thankfully no cat was harmed in this thought experiment of Erwin Schrödinger to illustrate some of the counterintuitive aspects of quantum mechanics. 😽
 
-FQ19. Quantum computer promises infinite speedup for any computation.
+FQ19. Quantum computers promise infinite speedup for any computation.
+
+   While quantum computers have the potential to provide significant speedup for certain types of computations compared to classical computers, they do not offer infinite speedup for all computations. They excel in specific areas, such as simulating quantum systems, optimization problems, and certain types of cryptography. For many everyday tasks and problems, classical computers remain more practical and efficient.
 
 FQ20. A qubit can be stored in a hard disk or USB stick like a normal bit.
 
