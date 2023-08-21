@@ -65,6 +65,10 @@ FQ19. Quantum computers promise infinite speedup for any computation.
 
 FQ20. A qubit can be stored in a hard disk or USB stick like a normal bit.
 
+   No, qubits cannot be stored in a hard disk or USB stick like normal bits. Qubits are the fundamental units of quantum information and are distinct from classical bits, which are used in classical computers (see FQ15).
+
+   The storage and manipulation of qubits require specialized physical systems that can maintain their quantum properties. These systems are carefully engineered to isolate qubits from their surroundings to minimize decoherence effects. Storing qubits in a conventional storage device like a hard disk or USB stick is not feasible due to the requirements for maintaining quantum properties.
+
 FQ21. Eight qubits grouped together are a qubyte.
 
    No, eight qubits grouped together is not called a "qubyte". “Qubyte” is not a standard term in quantum computing. For example, a system of eight qubits is often referred to as an eight-qubit quantum register or an eight-qubit quantum state. In classical computing, the fundamental unit is a bit and eight bits grouped together are called a “byte” and 1024 bytes are called a “kilobyte”. But there is no analogous to this in quantum computing.
