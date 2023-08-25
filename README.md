@@ -14,7 +14,7 @@ FQ03. I need to have a PhD in Physics to work with quantum computers.
 
    Don't worry. You only need some interest. Quantum computing is an interdisciplinary field that combines concepts from physics, computer science, mathematics, and engineering. While a Ph.D. in Physics can certainly be advantageous and provide a strong foundation in the underlying principles of quantum mechanics, there are various roles within the field of quantum computing that don't require such an advanced degree.
    
-FQ04. Quantum computers are to only application of quantum technology.
+FQ04. Quantum computers are the only application of quantum technology.
 
    No, quantum computers are definitely not the only application of quantum technology. While quantum computers are a prominent and exciting application, there are several other areas where quantum technology finds utility. Here are a few examples:
       * Quantum Communication: Quantum technology enables secure communication by leveraging the principles of quantum mechanics to ensure the confidentiality and integrity of transmitted information.
@@ -45,7 +45,7 @@ FQ12. Access to quantum computers is limited to rich people.
 
 FQ13. Similar: access to quantum computers is limited to scientists.
 
-FQ14. Quantum computers best use is for large data.
+FQ14. Quantum computers best used is for large data.
 
    Quantum computers have the potential to provide significant advantages for certain types of problems, including those involving large data sets. However, it's important to note that quantum computers are not inherently better at handling large data compared to classical computers.
 
