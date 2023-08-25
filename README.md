@@ -53,7 +53,16 @@ FQ15. Qubits are in state 0 and 1 at the same time.
 
    Yes, in quantum computing, qubits can exist in a superposition of states, which means they can be in a combination of both 0 and 1 simultaneously. This is one of the fundamental properties of quantum mechanics that distinguishes it from classical computing. A classical bit can represent either a 0 or a 1, but not both at the same time. However, a qubit can represent a complex combination of 0 and 1. This superposition allows quantum computers to perform certain calculations more efficiently than classical computers.
 
-FQ16. With entangled qubits you can send information faster than speed of light.
+FQ16. With entangled qubits you can send information faster than the speed of light.
+
+Entanglement is a quantum phenomenon where the properties of two particles become correlated in such a way that the state of one particle instantaneously affects the state of another, regardless of the distance between them. However, this doesn't allow for faster-than-light communication.
+
+Here is why:
+1. Measurement outcomes of the entangled particles are random and you cannot control which state you get.
+2. The results of the measurements are correlated, but there is no way to send a specific message. The correlation comes after the comparison, which needs a classical communication channel.
+3. No-Faster-Than-Light causality: even though the effect is instantaneous, no actual information is transmitted and causality is preserved.
+
+It's worth noting that quantum entanglement has potential applications in the field of quantum communication (like quantum key distribution) and quantum computing, but it doesn't provide a way around the speed-of-light barrier for communication.
 
 FQ18. The cat in Schrödinger's thought experiment really died.
 
