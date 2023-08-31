@@ -136,4 +136,6 @@ FQ39. Moore's Law is dead.
 
    Quantum computing is a very new field in science, but there are already new observations like [Neven's Law or Rosen's Law](https://kjoo.be/moores-law-vs-roses-law-vs-nevens-law/).
 
+FQ40. There’s no practical use for quantum computers.
+
 Licensed under [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
