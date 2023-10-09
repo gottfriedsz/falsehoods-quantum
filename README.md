@@ -138,4 +138,8 @@ FQ39. Moore's Law is dead.
 
 FQ40. There’s no practical use for quantum computers.
 
+FQ41. Austria is a too small country to make good quantum tech.
+
+![Quantum Landscape of Austria](AIT.png) (2022, credits to [AIT](https://www.ait.ac.at/en/research-topics/enabling-digital-technologies/solutions-services/quantum-technologies) )
+
 Licensed under [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
